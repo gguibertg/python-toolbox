@@ -34,7 +34,7 @@ Algunos scripts pueden requerir configuración previa dentro del propio archivo 
 | Script                        | Descripción                                                         |
 |------------------------------|----------------------------------------------------------------------|
 | `renombrar_snake_case.py`    | Renombra archivos y carpetas para que sigan la convención `snake_case` de PEP8 |
-| `...`                        | Añade aquí tus próximos scripts                                     |
+| `...`                        | Próximos scripts                                     |
 
 ## 📌 Notas
 
